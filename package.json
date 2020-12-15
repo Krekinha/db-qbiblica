@@ -1,0 +1,25 @@
+{
+  "name": "db-qbiblica",
+  "version": "1.0.0",
+  "description": "App gerenciador de dados de um Quiz",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krekinha/db-qbiblica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krekinha/db-qbiblica/issues"
+  },
+  "homepage": "https://github.com/Krekinha/db-qbiblica#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
